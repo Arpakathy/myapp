@@ -2,7 +2,7 @@ Question 8. Create a tar archive of “/usr/local/” Directory with .bzip2 ( ca
 
 Answer
 
-'''
+```
 
 \# verify that tar and bzip2 or gzip2 are installed
 
@@ -26,4 +26,4 @@ cd /root
 
 ls
 
-'''
+```

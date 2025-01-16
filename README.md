@@ -1,7 +1,9 @@
 Question 8. Create a tar archive of “/usr/local/” Directory with .bzip2 ( can also be .tgz )extension. Tar archive named “myetcbackup.tar” should be place in “/root/” Directory.
 
 Answer
+
 '''
+
 \# verify that tar and bzip2 or gzip2 are installed
 
 yum install tar
@@ -23,4 +25,5 @@ tar -cvzf /root/mybackup.tar.tgz /usr/local
 cd /root
 
 ls
+
 '''

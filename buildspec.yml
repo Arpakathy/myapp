@@ -1,9 +1,5 @@
 version: 0.2
 
-env:
-  variables:
-    CONTAINER_NAME: "oneapp"  # Replace with your actual container name
-
 phases:
   pre_build:
     commands:
